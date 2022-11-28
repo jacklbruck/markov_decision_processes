@@ -1,0 +1,7 @@
+mdptoolbox-hiive
+matplotlib
+pandas
+pygame
+numpy
+black
+gym
